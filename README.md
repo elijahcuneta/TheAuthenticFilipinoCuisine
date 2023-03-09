@@ -1,5 +1,5 @@
 # TheAuthenticFilipinoCuisine
-An Diner Dash inspired game for PC and mobile
+A Diner Dash inspired game for PC and mobile
 
 Unity Version: 2018.2.2f1
 
