@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: 84b26b8d943efb9479fe296c9271ba67
+timeCreated: 1551980917
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Head
+    21300002: Body
+    21300004: Arm
+    21300006: Spoon
+    21300008: Fork
+    21300010: Leg_Stand
+    21300012: Leg_Seated
+    21300014: Head_OpenMouth
+    21300016: Head_Angry
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Head
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 284
+        width: 114
+        height: 152
+      alignment: 9
+      pivot: {x: 0.3932657, y: 0.19111955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Body
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 292
+        width: 118
+        height: 120
+      alignment: 9
+      pivot: {x: 0.49428454, y: 0.07286581}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Arm
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 292
+        width: 64
+        height: 116
+      alignment: 9
+      pivot: {x: 0.08902407, y: 0.06976476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Spoon
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 288
+        width: 116
+        height: 115
+      alignment: 9
+      pivot: {x: 0.05959057, y: 0.1422626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fork
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 288
+        width: 119
+        height: 103
+      alignment: 9
+      pivot: {x: 0.089214936, y: 0.7592871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Leg_Stand
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 44
+        width: 131
+        height: 172
+      alignment: 9
+      pivot: {x: 0.50514823, y: 0.9470009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Leg_Seated
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 64
+        width: 173
+        height: 160
+      alignment: 9
+      pivot: {x: 0.45131156, y: 0.92799884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Head_OpenMouth
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 103
+        width: 133
+        height: 140
+      alignment: 9
+      pivot: {x: 0.41708764, y: 0.17052084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Head_Angry
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 96
+        width: 138
+        height: 149
+      alignment: 9
+      pivot: {x: 0.37532508, y: 0.18113652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
